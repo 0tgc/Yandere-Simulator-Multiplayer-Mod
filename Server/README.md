@@ -2,17 +2,6 @@
 
 Everything is username-based. No IPs are ever shown to players.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-python server.py
-```
-
-Port forward **7777 (TCP)** on your router to your PC. That's the only network setup needed — players never deal with IPs.
-
----
-
 ## How It Works
 
 Players register a username once. After that the username IS their identity.

@@ -1,3 +1,12 @@
+## Required Setup (Do This First)
+
+Before using this multiplayer system, you must install **MelonLoader**.
+
+Download MelonLoader Installer:
+https://github.com/LavaGang/MelonLoader/releases/download/v0.7.0/MelonLoader.Installer.exe
+
+---
+
 # Yandere Simulator Multiplayer
 
 Everything is username-based. No IPs are ever shown to players.

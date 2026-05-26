@@ -1,4 +1,4 @@
-# YanSim Multiplayer Server
+# Yandere Simulator Multiplayer Server
 
 Everything is username-based. No IPs are ever shown to players.
 

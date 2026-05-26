@@ -2,7 +2,7 @@
 
 Before using this multiplayer system, you must install **MelonLoader**.
 
-[![Download MelonLoader](https://img.shields.io/badge/Download-MelonLoader-007ACC?style=for-the-badge)](https://github.com/LavaGang/MelonLoader/releases/download/v0.7.0/MelonLoader.Installer.exe)
+[![Download MelonLoader](https://img.shields.io/badge/Download-MelonLoader-1f883d?style=for-the-badge)](https://github.com/LavaGang/MelonLoader/releases/download/v0.7.0/MelonLoader.Installer.exe)
 
 ---
 

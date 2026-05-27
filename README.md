@@ -224,6 +224,6 @@ This is a fan-made mod and is not affiliated with YandereDev or the official Yan
 
 <div align="center">
 
-Made with 🎀 by the community
+Developed by 0tgc
 
 </div>

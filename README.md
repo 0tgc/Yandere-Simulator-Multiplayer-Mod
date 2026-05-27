@@ -88,8 +88,8 @@ YanSimMultiplayer/
 
 ### Prerequisites
 
-- [Yandere Simulator](https://yanderesimulator.com/) installed
-- ![MelonLoader 0.6.x](https://github.com/LavaGang/MelonLoader/releases/download/v0.7.3/MelonLoader.Installer.exe) installed into the game and run once
+- [Yandere Simulator](https://yanderesimulator.com/YandereSimLauncher.zip) installed
+- [MelonLoader 0.6.x](https://github.com/LavaGang/MelonLoader/releases/download/v0.7.3/MelonLoader.Installer.exe) installed into the game and run once
 - [.NET 6 SDK](https://dotnet.microsoft.com/) to build the mod
 
 > **Note:** This mod requires a running server to connect to.

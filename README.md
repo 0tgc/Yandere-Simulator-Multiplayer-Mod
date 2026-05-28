@@ -2,7 +2,7 @@
 
 A MelonLoader mod that adds real-time multiplayer to Yandere Simulator.
 
-## How it works
+## Still under development
 
 One player hosts a world. Other players join it. The host's game state (NPCs, items, blood, corpses) is broadcast to all connected clients in real time. Clients see the exact same world — NPCs walk around, weapons appear/disappear, blood pools form, and dead bodies ragdoll — matching the host frame-by-frame.
 

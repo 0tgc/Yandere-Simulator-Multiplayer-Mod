@@ -27,7 +27,7 @@ One player hosts a world. Other players join it. The host's game state (NPCs, it
 1. Enter a username and claim it (one-time setup)
 2. Click **Host a World** or **Browse Worlds** to find one to join
 3. If hosting: the host loads into the school and plays normally
-4. If joining: you connect as a spectator and see the host's world
+4. If joining: you connect as a player and see the host's world
 
 ### Controls
 

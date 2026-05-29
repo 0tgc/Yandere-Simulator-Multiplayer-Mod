@@ -36,7 +36,7 @@ One player hosts a world. Other players join it. Clients see NPCs following thei
 |---|---|
 | F | PvP kill request (when holding a weapon near another player) |
 | R | Respawn after death |
-| T | Open chat |
+| Z | Open chat |
 
 ## Building from source
 

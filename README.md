@@ -38,18 +38,6 @@ One player hosts a world. Other players join it. Clients see NPCs following thei
 | R | Respawn after death |
 | Z | Open chat |
 
-## Building from source
-
-```
-dotnet build -c Release
-```
-
-Requires .NET Framework 4.7.2 SDK and the game's `Managed` assemblies.
-
-## Server
-
-The relay server is a Python FastAPI + WebSocket application in `Server/Server.py`.
-
 ## License
 
 MIT
